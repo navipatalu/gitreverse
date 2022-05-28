@@ -3,3 +3,4 @@ adding line 2 to file1.txt
 adding line 3 to file1.txt
 adding line 4 to file1.txt
 adding line 5 to file1.txt
+adding line 6 to file1.txt
